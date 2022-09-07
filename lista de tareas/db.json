@@ -23,6 +23,18 @@
       "day": "hoy 6pm",
       "reminder": true,
       "id": 8
+    },
+    {
+      "text": "sasasas",
+      "day": "asasas",
+      "reminder": true,
+      "id": 9
+    },
+    {
+      "text": "dsdsds",
+      "day": "asasas",
+      "reminder": false,
+      "id": 10
     }
   ]
 }
